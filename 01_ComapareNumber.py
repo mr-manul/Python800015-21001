@@ -1,15 +1,12 @@
 print ("Which number is bigger?")
+
 #input
 a = int(input("Enter first number:" ))
-b = int(input("Enter first number:" ))
-#compare
-if a > b:
-    print (f"{a} is bigger")
-elif b > a:
-    print (f"{b} is bigger")
-elif a == b:
-    print ("number is even")
-else:
-    print("error")
+b = int(input("Enter second number:" ))
+c = int(input("Enter third number:" ))
 
+#largest integer
+largest = max(a, b, c)
+
+print(f"The largest number is: {largest}")
 
