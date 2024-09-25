@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3345912-faa1-4cde-ab30-aea4d0bca578" name="Changes" comment="excersice done">
-      <change afterPath="$PROJECT_DIR$/Lab/while-loop-lab2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab/while-loop-lab3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c3345912-faa1-4cde-ab30-aea4d0bca578" name="Changes" comment="exwhile loop excersise">
+      <change afterPath="$PROJECT_DIR$/Lab/for-loop-lab1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01_BiggestNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment/01_BiggestNumber.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +59,7 @@
     "Python.01_BiggestNumber (1).executor": "Run",
     "Python.01_BiggestNumber.executor": "Run",
     "Python.01_ComapareNumber.executor": "Run",
+    "Python.for-loop-lab1.executor": "Run",
     "Python.main.executor": "Run",
     "Python.while-loop-lab1.executor": "Run",
     "Python.while-loop-lab2 (1).executor": "Debug",
@@ -84,7 +83,7 @@
       <recent name="C:\Users\manuel.portmann.PICT\PycharmProjects\Python800015-21001" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.while-loop-lab3">
+  <component name="RunManager" selected="Python.for-loop-lab1">
     <configuration name="01_BiggestNumber (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python800015-21001" />
       <option name="ENV_FILES" value="" />
@@ -100,6 +99,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assessment/01_BiggestNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="for-loop-lab1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python800015-21001" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab/for-loop-lab1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,29 +199,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while-loop-lab2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python800015-21001" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\manuel.portmann.PICT\PycharmProjects\Python800015-21001\Lab\while-loop-lab2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="while-loop-lab3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python800015-21001" />
       <option name="ENV_FILES" value="" />
@@ -225,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.for-loop-lab1" />
         <item itemvalue="Python.while-loop-lab3" />
         <item itemvalue="Python.while-loop-lab1" />
         <item itemvalue="Python.while-loop-lab2 (1)" />
         <item itemvalue="Python.01_BiggestNumber (1)" />
-        <item itemvalue="Python.while-loop-lab2" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +252,7 @@
       <workItem from="1726748092770" duration="31000" />
       <workItem from="1726748132754" duration="15000" />
       <workItem from="1726749602273" duration="873000" />
-      <workItem from="1727227005288" duration="2385000" />
+      <workItem from="1727227005288" duration="3254000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -311,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726750362462</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="exwhile loop excersise">
+      <option name="closed" value="true" />
+      <created>1727229669160</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727229669160</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,7 +368,8 @@
     <MESSAGE value="change to read me" />
     <MESSAGE value="final change in master" />
     <MESSAGE value="excersice done" />
-    <option name="LAST_COMMIT_MESSAGE" value="excersice done" />
+    <MESSAGE value="exwhile loop excersise" />
+    <option name="LAST_COMMIT_MESSAGE" value="exwhile loop excersise" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python800015_21001$while_loop_lab1.coverage" NAME="while-loop-lab1 Coverage Results" MODIFIED="1727229024256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab" />
@@ -371,6 +379,7 @@
     <SUITE FILE_PATH="coverage/Python800015_21001$while_loop_lab2__1_.coverage" NAME="while-loop-lab2 Coverage Results" MODIFIED="1727228385864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment" />
     <SUITE FILE_PATH="coverage/Python800015_21001$01_BiggestNumber.coverage" NAME="01_BiggestNumber Coverage Results" MODIFIED="1726750449956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python800015_21001$01_ComapareNumber.coverage" NAME="01_ComapareNumber Coverage Results" MODIFIED="1726750192473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python800015_21001$while_loop_lab3.coverage" NAME="while-loop-lab3 Coverage Results" MODIFIED="1727229397985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$while_loop_lab3.coverage" NAME="while-loop-lab3 Coverage Results" MODIFIED="1727232554682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$for_loop_lab1.coverage" NAME="for-loop-lab1 Coverage Results" MODIFIED="1727232559888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab" />
   </component>
 </project>
