@@ -4,14 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3345912-faa1-4cde-ab30-aea4d0bca578" name="Changes" comment="week 3 loops">
-      <change afterPath="$PROJECT_DIR$/Exercise/exercise0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/exercise1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/exercise2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/exercise3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise/exercise4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_09_2024_21_32_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_09_2024_21_32__Changes_.xml" beforeDir="false" />
+    <list default="true" id="c3345912-faa1-4cde-ab30-aea4d0bca578" name="Changes" comment="merge">
+      <change afterPath="$PROJECT_DIR$/Exam/2_IO-variables/2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/2_IO-variables/2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/2_IO-variables/2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/3_condition/3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/3_condition/3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/3_condition/3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/3_condition/3.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/4_while-loop/4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/4_while-loop/4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/4_while-loop/4.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/4_while-loop/4.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/4_while-loop/4.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/4_while-loop/4.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/5_for-loop/5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/5_for-loop/5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/5_for-loop/5.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/5_for-loop/5.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/5_for-loop/5.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/5_for-loop/5.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/6_$tring/6.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/6_$tring/6.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/6_$tring/6.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/7_function/7.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/7_function/7.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/7_function/7.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/7_function/7.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/7_function/7.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam/8_list, tuple/8.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +57,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="week04" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -84,7 +105,7 @@
     "Python.while-loop-lab2.executor": "Run",
     "Python.while-loop-lab3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "week04",
+    "git-widget-placeholder": "midterm",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -338,7 +359,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727229669160</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="merge">
+      <option name="closed" value="true" />
+      <created>1729824644246</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729824644246</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,22 +418,39 @@
     <MESSAGE value="final change in master" />
     <MESSAGE value="excersice done" />
     <MESSAGE value="exwhile loop excersise" />
-    <option name="LAST_COMMIT_MESSAGE" value="exwhile loop excersise" />
+    <MESSAGE value="merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exam/6_$tring/6.1.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python800015_21001$exercise0.coverage" NAME="exercise0 Coverage Results" MODIFIED="1727832040767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
-    <SUITE FILE_PATH="coverage/Python800015_21001$exercise3.coverage" NAME="exercise3 Coverage Results" MODIFIED="1727835048642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$exercise3.coverage" NAME="exercise3 Coverage Results" MODIFIED="1729042813176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise06" />
     <SUITE FILE_PATH="coverage/Python800015_21001$while_loop_lab2.coverage" NAME="while-loop-lab2 Coverage Results" MODIFIED="1727227420291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab" />
     <SUITE FILE_PATH="coverage/Python800015_21001$main.coverage" NAME="main Coverage Results" MODIFIED="1726747704852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python800015_21001$while_loop_lab2__1_.coverage" NAME="while-loop-lab2 Coverage Results" MODIFIED="1727228385864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1729045807174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise06" />
     <SUITE FILE_PATH="coverage/Python800015_21001$01_ComapareNumber.coverage" NAME="01_ComapareNumber Coverage Results" MODIFIED="1726750192473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python800015_21001$while_loop_lab3.coverage" NAME="while-loop-lab3 Coverage Results" MODIFIED="1727232554682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab" />
-    <SUITE FILE_PATH="coverage/Python800015_21001$exercise1.coverage" NAME="exercise1 Coverage Results" MODIFIED="1727832627681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
-    <SUITE FILE_PATH="coverage/Python800015_21001$exercise2.coverage" NAME="exercise2 Coverage Results" MODIFIED="1727834344513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
-    <SUITE FILE_PATH="coverage/Python800015_21001$for_loop_lab1.coverage" NAME="for-loop-lab1 Coverage Results" MODIFIED="1727232559888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$exercise1.coverage" NAME="exercise1 Coverage Results" MODIFIED="1729041653202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise05" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$exercise2.coverage" NAME="exercise2 Coverage Results" MODIFIED="1729042267883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise05" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$for_loop_lab1.coverage" NAME="for-loop-lab1 Coverage Results" MODIFIED="1729040977303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1729647201335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise07" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$ex6.coverage" NAME="ex6 Coverage Results" MODIFIED="1729045811979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise06" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1729824216145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise07" />
     <SUITE FILE_PATH="coverage/Python800015_21001$while_loop_lab1.coverage" NAME="while-loop-lab1 Coverage Results" MODIFIED="1727229024256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab" />
     <SUITE FILE_PATH="coverage/Python800015_21001$01_BiggestNumber__1_.coverage" NAME="01_BiggestNumber (1) Coverage Results" MODIFIED="1727227652127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment" />
     <SUITE FILE_PATH="coverage/Python800015_21001$01_BiggestNumber.coverage" NAME="01_BiggestNumber Coverage Results" MODIFIED="1726750449956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python800015_21001$exercise4.coverage" NAME="exercise4 Coverage Results" MODIFIED="1727836340629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$exercise4.coverage" NAME="exercise4 Coverage Results" MODIFIED="1729043568723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise06" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1729650502461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise07" />
   </component>
 </project>
