@@ -10,3 +10,5 @@ for i in range(1, 101):
 
 # Print the total sum
 print(f"The sum of multiples of 3 between 1 and 100 is {total_sum}")
+
+
