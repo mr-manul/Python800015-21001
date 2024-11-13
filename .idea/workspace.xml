@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3345912-faa1-4cde-ab30-aea4d0bca578" name="Changes" comment="all ex for midterm">
-      <change afterPath="$PROJECT_DIR$/243010_MidTerm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aufgabe1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aufgabe2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aufgabe3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aufgabe4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testfile.py" afterDir="false" />
+    <list default="true" id="c3345912-faa1-4cde-ab30-aea4d0bca578" name="Changes" comment="mid term exam">
+      <change afterPath="$PROJECT_DIR$/FlappyBird.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/GameTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week10/ex5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exam/5_for-loop/5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exam/5_for-loop/5.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="midterm" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,10 +72,16 @@
     "Python.01_BiggestNumber.executor": "Run",
     "Python.01_ComapareNumber.executor": "Run",
     "Python.243010_MidTerm.executor": "Run",
+    "Python.FlappyBird.executor": "Run",
+    "Python.GameTest.executor": "Run",
     "Python.aufgabe1.executor": "Run",
     "Python.aufgabe2.executor": "Run",
     "Python.aufgabe3.executor": "Run",
     "Python.aufgabe4.executor": "Run",
+    "Python.ex1.executor": "Run",
+    "Python.ex3.executor": "Run",
+    "Python.ex4.executor": "Run",
+    "Python.ex5.executor": "Run",
     "Python.exercise0.executor": "Run",
     "Python.exercise1.executor": "Run",
     "Python.exercise2.executor": "Run",
@@ -91,26 +96,27 @@
     "Python.while-loop-lab3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "didalgo.chatgpt.ToolWindow.ACTIVE": "GPT_4",
-    "git-widget-placeholder": "midterm",
+    "git-widget-placeholder": "week10",
     "last_opened_file_path": "C:/Users/manuel.portmann.PICT/PycharmProjects/ChatGPT_Integration-1.1.1-231-signed.zip",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.didalgo.chatgpt.settings.GPT3-3.5-Turbo",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\manuel.portmann.PICT\PycharmProjects\Python800015-21001\MidTerm" />
       <recent name="C:\Users\manuel.portmann.PICT\PycharmProjects\Python800015-21001" />
       <recent name="C:\Users\manuel.portmann.PICT\PycharmProjects\Python800015-21001\Lab" />
       <recent name="C:\Users\manuel.portmann.PICT\PycharmProjects\Python800015-21001\Assessment" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.243010_MidTerm">
-    <configuration name="243010_MidTerm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.FlappyBird">
+    <configuration name="FlappyBird" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python800015-21001" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,7 +130,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/243010_MidTerm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlappyBird.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aufgabe1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="GameTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python800015-21001" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,12 +148,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aufgabe1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week10/GameTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aufgabe2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python800015-21001" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,12 +171,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aufgabe2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week10/ex3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aufgabe3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python800015-21001" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,12 +194,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aufgabe3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week10/ex4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aufgabe4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python800015-21001" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,12 +217,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aufgabe4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week10/ex5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.243010_MidTerm" />
-        <item itemvalue="Python.aufgabe3" />
-        <item itemvalue="Python.aufgabe2" />
-        <item itemvalue="Python.aufgabe1" />
-        <item itemvalue="Python.aufgabe4" />
+        <item itemvalue="Python.FlappyBird" />
+        <item itemvalue="Python.GameTest" />
+        <item itemvalue="Python.ex5" />
+        <item itemvalue="Python.ex4" />
+        <item itemvalue="Python.ex3" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +288,11 @@
       <workItem from="1727831273743" duration="163000" />
       <workItem from="1727831453329" duration="4798000" />
       <workItem from="1729827924011" duration="29850000" />
-      <workItem from="1730244293921" duration="5324000" />
+      <workItem from="1730244293921" duration="5554000" />
+      <workItem from="1730261040218" duration="670000" />
+      <workItem from="1730856415852" duration="3683000" />
+      <workItem from="1731459989969" duration="4424000" />
+      <workItem from="1731479586716" duration="785000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -364,7 +374,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729827415950</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="mid term exam">
+      <option name="closed" value="true" />
+      <created>1730255869988</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730255869988</updated>
+    </task>
+    <task id="LOCAL-00012" summary="mid term exam">
+      <option name="closed" value="true" />
+      <created>1730255921263</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730255921263</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,7 +443,8 @@
     <MESSAGE value="exwhile loop excersise" />
     <MESSAGE value="merge" />
     <MESSAGE value="all ex for midterm" />
-    <option name="LAST_COMMIT_MESSAGE" value="all ex for midterm" />
+    <MESSAGE value="mid term exam" />
+    <option name="LAST_COMMIT_MESSAGE" value="mid term exam" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -435,7 +462,7 @@
     <SUITE FILE_PATH="coverage/Python800015_21001$exercise3.coverage" NAME="exercise3 Coverage Results" MODIFIED="1729042813176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise06" />
     <SUITE FILE_PATH="coverage/Python800015_21001$while_loop_lab2.coverage" NAME="while-loop-lab2 Coverage Results" MODIFIED="1727227420291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab" />
     <SUITE FILE_PATH="coverage/Python800015_21001$main.coverage" NAME="main Coverage Results" MODIFIED="1726747704852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python800015_21001$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1729045807174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise06" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1731462806827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week10" />
     <SUITE FILE_PATH="coverage/Python800015_21001$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1729647201335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise07" />
     <SUITE FILE_PATH="coverage/Python800015_21001$aufgabe1.coverage" NAME="aufgabe1 Coverage Results" MODIFIED="1730255082224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python800015_21001$while_loop_lab1.coverage" NAME="while-loop-lab1 Coverage Results" MODIFIED="1727229024256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab" />
@@ -444,17 +471,19 @@
     <SUITE FILE_PATH="coverage/Python800015_21001$aufgabe2.coverage" NAME="aufgabe2 Coverage Results" MODIFIED="1730255173142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python800015_21001$exercise4.coverage" NAME="exercise4 Coverage Results" MODIFIED="1729043568723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise06" />
     <SUITE FILE_PATH="coverage/Python800015_21001$testfile.coverage" NAME="testfile Coverage Results" MODIFIED="1730244315910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python800015_21001$243010_MidTerm.coverage" NAME="243010_MidTerm Coverage Results" MODIFIED="1730255743815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$243010_MidTerm.coverage" NAME="243010_MidTerm Coverage Results" MODIFIED="1730857069539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1730857638666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week10" />
     <SUITE FILE_PATH="coverage/Python800015_21001$while_loop_lab2__1_.coverage" NAME="while-loop-lab2 Coverage Results" MODIFIED="1727228385864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment" />
     <SUITE FILE_PATH="coverage/Python800015_21001$01_ComapareNumber.coverage" NAME="01_ComapareNumber Coverage Results" MODIFIED="1726750192473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python800015_21001$while_loop_lab3.coverage" NAME="while-loop-lab3 Coverage Results" MODIFIED="1727232554682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab" />
     <SUITE FILE_PATH="coverage/Python800015_21001$exercise1.coverage" NAME="exercise1 Coverage Results" MODIFIED="1729041653202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise05" />
     <SUITE FILE_PATH="coverage/Python800015_21001$exercise2.coverage" NAME="exercise2 Coverage Results" MODIFIED="1729042267883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise05" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$GameTest.coverage" NAME="GameTest Coverage Results" MODIFIED="1731465047677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week10" />
     <SUITE FILE_PATH="coverage/Python800015_21001$for_loop_lab1.coverage" NAME="for-loop-lab1 Coverage Results" MODIFIED="1729040977303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab" />
     <SUITE FILE_PATH="coverage/Python800015_21001$ex6.coverage" NAME="ex6 Coverage Results" MODIFIED="1729045811979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise06" />
-    <SUITE FILE_PATH="coverage/Python800015_21001$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1729824216145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise07" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1730857634277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week10" />
     <SUITE FILE_PATH="coverage/Python800015_21001$01_BiggestNumber.coverage" NAME="01_BiggestNumber Coverage Results" MODIFIED="1726750449956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python800015_21001$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1729650502461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise07" />
+    <SUITE FILE_PATH="coverage/Python800015_21001$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1731460125890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week10" />
     <SUITE FILE_PATH="coverage/Python800015_21001$aufgabe3.coverage" NAME="aufgabe3 Coverage Results" MODIFIED="1730255507347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
